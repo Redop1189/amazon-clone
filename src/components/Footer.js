@@ -47,13 +47,14 @@ function Footer() {
         </div>
 
         <div className='bg-amazon_blue-light flex justify-center py-8 border-t border-amazon_blue-border'>
-            <Image 
+            {/* <Image 
             src='https://links.papareact.com/f90'
             width={100}
             height={30}
             objectFit='contain'
             className='cursor-pointer'
-            />
+            /> */}
+            <img style={{ width: 125, height: 35, objectFit: 'contain' }} src="https://links.papareact.com/f90" alt="" />
         </div>
 
         <div className='bg-amazon_blue text-white text-xs pt-6 pb-8 flex flex-col items-center'>
@@ -62,7 +63,8 @@ function Footer() {
                 <li className='pr-4 link'>Privacy Notice</li>
                 <li className='pr-4 link'>Interest-Based Ads</li>
             </ul>
-            <p>© 1996-2023, Amazon.com, Inc. or its affiliates</p>
+            <p className='pb-1'>© 1996-2023, Amazon.com, Inc. or its affiliates</p>
+            <p>Amazon Clone Created By Prathamesh Pawar.</p>
         </div>
 
     </div>
