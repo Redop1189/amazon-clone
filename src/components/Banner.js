@@ -21,6 +21,12 @@ function Banner() {
             <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71g8JvhNj5L._SX3000_.jpg" alt="" />
           </div>
           <div>
+            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61O759bS39L._SX3000_.jpg" alt="" />
+          </div>
+          <div>
+            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71aJVWrz15L._SX3000_.jpg" alt="" />
+          </div>
+          <div>
             <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61v07Nz4M7L._SX3000_.jpg" alt="" />
           </div>
           <div>
