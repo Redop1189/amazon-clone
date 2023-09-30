@@ -21,7 +21,7 @@
     "react-responsive-carousel": "^3.2.23"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "license": "MIT",
   "devDependencies": {
