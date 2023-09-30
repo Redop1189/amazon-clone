@@ -15,43 +15,22 @@ function Banner() {
           interval={5000}
           >
           <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71F+5Fq3nhL._SX3000_.jpg" alt="" />
+            <img loading='lazy' src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/Fashion/Event/Gateway/Jup/KSD/Deals-PC-3000-Unrec._CB577064215_.jpg" alt="" />
           </div>
           <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71g8JvhNj5L._SX3000_.jpg" alt="" />
+            <img loading='lazy' src="https://images-eu.ssl-images-amazon.com/images/G/31/img23/Fashion/Event/Gateway/Jup/KSD/PFF-Unrec-3000._CB577063325_.jpg" alt="" />
           </div>
           <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61O759bS39L._SX3000_.jpg" alt="" />
+            <img loading='lazy' src="https://images-eu.ssl-images-amazon.com/images/G/31/img18/Lawn_Garden/Ud/Jupiter23/KSD/GW/Solar-pc-3000x1200._CB577106624_.jpg" alt="" />
           </div>
           <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71aJVWrz15L._SX3000_.jpg" alt="" />
+            <img loading='lazy' src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Toys/GW/Jupiter2023GW/Homepage_DesktopHeroTemplate_3000x1200_22June2023_ksd_Cricket_toys_2x._CB577185967_.jpg" alt="" />
           </div>
           <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61v07Nz4M7L._SX3000_.jpg" alt="" />
+            <img loading='lazy' src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/ksd/oldbank/DesktopHero_3000x1200._CB577020869_.jpg" alt="" />
           </div>
           <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71vdTR50hFL._SX3000_.jpg" alt="" />
-          </div>
-          <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71fgIasK5IL._SX3000_.jpg" alt="" />
-          </div>
-          <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71YTqRQKAAL._SX3000_.jpg" alt="" />
-          </div>
-          <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71niVrCTPWL._SX3000_.jpg" alt="" />
-          </div>
-          <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71mQc+YP-TL._SX3000_.jpg" alt="" />
-          </div>
-          <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61+Om+g+8SL._SX3000_.jpg" alt="" />
-          </div>
-          <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51ovs76vmtL._SX3000_.jpg" alt="" />
-          </div>
-          <div>
-            <img loading='lazy' src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81D-sLpLnaL._SX3000_.jpg" alt="" />
+            <img loading='lazy' src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Wireless/devjyoti/Jupiter23/OPPO/Uber/V1/D98467701_PC_Hero_3000x1200._CB577020453_.jpg" alt="" />
           </div>
           </Carousel>
     </div>
